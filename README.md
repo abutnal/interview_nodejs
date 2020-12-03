@@ -1,11 +1,6 @@
 
 # Node.js Interview Questions
 
-
-## Table of Contents
-
-* *[NodeJS APIs](nodejs-api.md)*
-
 | Sl.No|  Questions       |
 |------|------------------|
 | 01. |[What does the runtime environment mean in Node.js?](#q-what-does-the-runtime-environment-mean-in-nodejs)|
